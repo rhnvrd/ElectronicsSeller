@@ -10,8 +10,6 @@ List of available electronic components seller in iran
 
 ---
 
-
-
 ## [MicroModern](https://micmodshop.ir/)
 
 > Onboard switching power supply (HLK-xMx) and orginal components
@@ -19,8 +17,6 @@ List of available electronic components seller in iran
 > Tehran
 
 ---
-
-
 
 ## [Lion electronics](https://lionelectronic.ir/)
 
@@ -30,8 +26,6 @@ List of available electronic components seller in iran
 
 ---
 
-
-
 ## [Zagros electronics](https://www.zagroselec.ir/)
 
 > Buy orginal ICs and large orders
@@ -39,8 +33,6 @@ List of available electronic components seller in iran
 > Tehran
 
 ---
-
-
 
 ## [ECA](https://eshop.eca.ir/)
 
@@ -50,8 +42,6 @@ List of available electronic components seller in iran
 
 ---
 
-
-
 ## [CafeRobot](https://thecaferobot.com/)
 
 > Embedded systems and normal seller 
@@ -59,8 +49,6 @@ List of available electronic components seller in iran
 > Tehran
 
 ---
-
-
 
 ## [Idea electronics](https://shop.ideaelec.com/)
 
@@ -70,8 +58,6 @@ List of available electronic components seller in iran
 
 ---
 
-
-
 ## [Aftab rayaneh](https://shop.aftabrayaneh.com/)
 
 > Normal Seller
@@ -79,8 +65,6 @@ List of available electronic components seller in iran
 > Shiraz
 
 ---
-
-
 
 ## [Sprint electronics](https://sprintelec.com/)
 
@@ -90,8 +74,6 @@ List of available electronic components seller in iran
 
 ---
 
-
-
 ## [Ickala](https://ickala.com/) & [Iran-micro](https://iran-micro.com/)
 
 > One Normal seller
@@ -99,8 +81,6 @@ List of available electronic components seller in iran
 > Gilan - Tehran
 
 ---
-
-
 
 ## [RoboEQ](https://roboeq.ir/)
 
@@ -110,8 +90,6 @@ List of available electronic components seller in iran
 
 ---
 
-
-
 ## [JahanKit](https://www.jahankitshop.ir/)
 
 > Normal seller
@@ -120,15 +98,11 @@ List of available electronic components seller in iran
 
 ---
 
-
-
 ## [DaneshjooKit](https://daneshjookit.com/)
 
 > Normal seller
 
 ---
-
-
 
 ## [mclc mechatronic](https://mclc.ir/)
 
@@ -138,8 +112,6 @@ List of available electronic components seller in iran
 
 ---
 
-
-
 ## [SanatBazzar](https://www.sanatbazar.com/shop)
 
 > Mechanical components and Mechatronics
@@ -147,8 +119,6 @@ List of available electronic components seller in iran
 > Tehran
 
 ---
-
-
 
 ## [Eranics](https://eranics.com/)
 
@@ -158,8 +128,6 @@ List of available electronic components seller in iran
 
 ---
 
-
-
 ## [Shar electronics](https://sharelec.ir/)
 
 > Power electronics
@@ -167,8 +135,6 @@ List of available electronic components seller in iran
 > Esfahan
 
 ---
-
-
 
 ## [Atrin electronics](https://www.atrinelec.com/)
 
@@ -178,8 +144,6 @@ List of available electronic components seller in iran
 
 ---
 
-
-
 ## [Landa electronics](https://www.landaelectronic.com/)
 
 > Low
@@ -187,8 +151,6 @@ List of available electronic components seller in iran
 > Tehran
 
 ---
-
-
 
 ## [Buybest electronics](https://buybestelectronic.com/)
 
@@ -198,8 +160,6 @@ List of available electronic components seller in iran
 
 ---
 
-
-
 ## [Tecsho](https://tecsho.com/)
 
 > Low
@@ -208,15 +168,11 @@ List of available electronic components seller in iran
 
 ---
 
-
-
 ## [kala electronics](https://kalaelec.com/)
 
 > Low
 
 ---
-
-
 
 ## [ElectronicProject](https://prjelec.com/)
 
@@ -226,8 +182,6 @@ List of available electronic components seller in iran
 
 ---
 
-
-
 ## [Part electronics](https://partelec.ir/)
 
 > Low
@@ -235,8 +189,6 @@ List of available electronic components seller in iran
 > Tehran
 
 ---
-
-
 
 ## [Labkhand store](https://labkhandstore.com/)
 
@@ -246,8 +198,6 @@ List of available electronic components seller in iran
 
 ---
 
-
-
 ## [CafeElectronics](https://cafeelec.ir/)
 
 > Low
@@ -255,8 +205,6 @@ List of available electronic components seller in iran
 > Shiraz
 
 ---
-
-
 
 ## [hadiban electronics](https://hadibanelectronic.com/)
 
@@ -266,15 +214,11 @@ List of available electronic components seller in iran
 
 ---
 
-
-
 ## [Chista electronic](https://echista.ir/)
 
 > Low
 
 ---
-
-
 
 ## [Bennu electronics](https://bennu.ir/)
 
@@ -282,15 +226,11 @@ List of available electronic components seller in iran
 
 ---
 
-
-
 ## [Behnam kit](https://behnamkit.com/)
 
 > preCreated electronic kits
 
 ---
-
-
 
 ## [ElectronicMarkazi](https://markazielect.com/)
 
@@ -298,15 +238,11 @@ List of available electronic components seller in iran
 
 ---
 
-
-
 ## [Afra electronics](https://afraelectronic.com/)
 
 > Buy orginal ICs and large orders
 
 ---
-
-
 
 ## [Ava Electronics](https://avaelectronic.ir/)
 
@@ -316,8 +252,6 @@ List of available electronic components seller in iran
 
 ---
 
-
-
 ## [Robotic NGO](https://shop.rngo.ir/)
 
 > Low
@@ -325,8 +259,6 @@ List of available electronic components seller in iran
 > Mashhad
 
 ---
-
-
 
 ## [Voltatech](https://voltatech.ir/)
 
@@ -336,8 +268,6 @@ List of available electronic components seller in iran
 
 ---
 
-
-
 ## [Behnam Robotic](https://behnamrobotic.com/)
 
 > Low
@@ -346,7 +276,21 @@ List of available electronic components seller in iran
 
 ---
 
+## [BehnamKit](https://behnamkit.com/)
 
+> electronics Kit and boxes
+> 
+> Mashhad
+
+---
+
+## [IranMagnet](https://www.irmagnet.ir/)
+
+> Magnets
+> 
+> Tehran
+
+---
 
 ## [Behnam Robotic](https://behnamrobotic.com/)
 
@@ -355,28 +299,6 @@ List of available electronic components seller in iran
 > Mashhad
 
 ---
-
-
-
-## [Behnam Robotic](https://behnamrobotic.com/)
-
-> Low
-> 
-> Mashhad
-
----
-
-
-
-## [Behnam Robotic](https://behnamrobotic.com/)
-
-> Low
-> 
-> Mashhad
-
----
-
-
 
 ## [Behnam Robotic](https://behnamrobotic.com/)
 
