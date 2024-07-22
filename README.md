@@ -50,6 +50,13 @@ List of available electronic components seller in iran
 
 ---
 
+## [Kavir electronics](https://kavirelectronic.ir/eshop/)
+> LCD , drives , electronics
+> 
+> Tehran
+
+---
+
 ## [Idea electronics](https://shop.ideaelec.com/)
 
 > Normal Seller large order capability
