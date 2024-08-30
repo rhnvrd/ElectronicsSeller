@@ -291,6 +291,13 @@ List of available electronic components seller in iran
 
 ---
 
+## [GigaElectronic](https://gigaelectronic.ir/)
+
+> electronics
+> 
+> Mashhad
+
+---
 ## [IranMagnet](https://www.irmagnet.ir/)
 
 > Magnets
