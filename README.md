@@ -9,6 +9,13 @@ List of available electronic components seller in iran
 > Tehran
 
 ---
+## [Asa Electronic](https://www.asa-elec.com/)
+
+> Connectors
+> 
+> Tehran
+
+---
 
 ## [MicroModern](https://micmodshop.ir/)
 
